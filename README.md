@@ -1,2 +1,2 @@
 # Mobile-app-ws
-Creating application using Spring Boot
+Creating simple Backend application using Spring Boot
